@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @pininfederico
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello, I'm Federico 👋
 
-<!---
-pininfederico/pininfederico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a student of website development. Currently I don't have enough knowledge to create projects but I'm learning.
+
+## Current Endeavors
+
+- Improving my knowledge of website development.
+
+## Contact
+
+[Email](mailto:mormyfede@gmail.com)
